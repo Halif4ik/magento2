@@ -1,8 +1,8 @@
 <?php
+declare(strict_types=1);
 
-
-namespace MageMastery\Todo\Controller\index;
-//use  Magento\Framework\App\Action\Action;
+namespace MageMastery\Todo\Controller\Index;
+use  Magento\Framework\App\Action\Action;
 use Magento\Framework\Controller\ResultFactory;
 
 class Index extends Action
